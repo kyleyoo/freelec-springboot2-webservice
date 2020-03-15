@@ -20,7 +20,6 @@ group 'com.jojoldu.book'
 version '1.0.1-SNAPSHOT-'+new Date().format("yyyyMMddHHmmss")
 
 
-
 repositories{
     mavenCentral()
     jcenter()
